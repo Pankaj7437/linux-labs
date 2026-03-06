@@ -1,4 +1,4 @@
-# Day 06 – Create and Transfer a Compressed Archive
+# Day 08 – Create and Transfer a Compressed Archive
 
 ## Objective
 Create a compressed archive of the `/data/yousuf` directory and move it to the `/home` directory on the Jump Host server.
